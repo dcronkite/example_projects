@@ -2,7 +2,7 @@
 
 Include some documentation here.
 
-%RetainOnes(DataIn,DataOut) ;
+%RetainOnes(InputData,OutData) ;
 **********************************************************/;
 %macro RetainOnes(
             InputData  /* The name of input dataset containing 1s and 0s in values column */
@@ -20,7 +20,7 @@ Include some documentation here.
       proc sql ;
          create table &OutData as
          select *
-         from InputData
+         from &InputData
          where value = 1;
       quit ;
 
