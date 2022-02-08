@@ -27,7 +27,7 @@ You can include a fuller description here.
 Here, we can explain how to get our code up and running. Some possible sections might be any prerequisites/assumptions,
 installation instructions, and documentation on input data.
 
-### Prerequsites
+### Prerequisites
 
 * Requires SAS
 
