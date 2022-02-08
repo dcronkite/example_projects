@@ -1,0 +1,3 @@
+# include files in here that you don't want to upload
+# e.g., if you don't want SAS data files, use:
+*.sas7bdat
