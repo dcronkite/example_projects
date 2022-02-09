@@ -1,3 +1,5 @@
+To see what this page looks like in Markdown, click the file from the list above and then the 'raw' button or [click here](https://raw.githubusercontent.com/kpwhri/example_projects/master/examples/simple_readme_project/README.md).
+
 # Project Name
 
 A very short description of this project or the files contained within.
