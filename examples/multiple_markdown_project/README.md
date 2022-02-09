@@ -1,3 +1,5 @@
+To see what this page looks like in Markdown, click the file from the list above and then the 'raw' button or [click here](https://raw.githubusercontent.com/kpwhri/example_projects/master/examples/multiple_markdown_project/README.md).
+
 # Multiple Markdown Project
 
 Demonstrate how to link multiple markdown files together within a single repository.
